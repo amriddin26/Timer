@@ -1,7 +1,7 @@
 autoplay();
 
 function khaitTime() {
-    const khaitDate = new Date('1 aprel, 2023, 00:00:00').getTime();
+    const khaitDate = new Date('1 aprel, 2024, 00:00:00').getTime();
     const now = new Date().getTime();
     const distance = khaitDate - now;
 
